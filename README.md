@@ -1,5 +1,6 @@
+# Ponology
 
-# [PACMAN](./cutie/pacman/)
+## [PACMAN](./cutie/pacman/)
 
 **Happy 20th birthday of Sylvie**
 
